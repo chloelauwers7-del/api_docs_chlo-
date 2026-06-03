@@ -38,19 +38,6 @@
                 <codeblock>{"id":102, "status":"Created"}</codeblock>
             </p>
         </section>
-        <section>
-            <title>Get Order Details</title>
-            <p>
-                <b>Method:</b> GET 
-                <b>URL:</b> /orders/{id} </p>
-            <p>Returns details for a specific order.</p>
-            <p>
-                <b>Parameter:</b>
-                <i>id</i> (integer) – Unique order identifier. </p>
-            <p>
-                <b>Response (200):</b>
-                <codeblock>{"id":101, "customer":"John Smith", "product":"Laptop", "quantity":1, "status":"Processing"}</codeblock>
-            </p>
-        </section>
+ 
     </refbody>
 </reference>

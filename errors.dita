@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="order-management-errors">
-    <title>Order Management API Error Codes</title>
+    <title>Order Management API Common Errors</title>
     <shortdesc>List of possible error codes and their solutions.</shortdesc>
     <refbody>
         <section>
